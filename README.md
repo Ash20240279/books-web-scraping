@@ -17,8 +17,6 @@ The complete web scraping workflow—from category discovery and dynamic paginat
 </div>
 
 ---
-# See it on google colabe
-https://colab.research.google.com/drive/1-72q64iXKc2h5QqL-ol0kUGI5oBkqOOw
 
 ## 🎯 Project Overview
 
