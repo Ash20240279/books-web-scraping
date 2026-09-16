@@ -4,6 +4,22 @@ A Python web scraping project that collects structured book information from **B
 
 The project extracts book data across multiple categories and pages, then organizes the results into a structured Pandas DataFrame and exports the final dataset as a CSV file.
 
+---
+
+<div align="center">
+
+### 🚀 **Run Directly in Google Colab**
+
+The complete web scraping workflow—from category discovery and dynamic pagination to raw data cleaning and CSV export—is pre-configured and ready to run in the cloud with zero setup required.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-72q64iXKc2h5QqL-ol0kUGI5oBkqOOw)
+
+</div>
+
+---
+# See it on google colabe
+https://colab.research.google.com/drive/1-72q64iXKc2h5QqL-ol0kUGI5oBkqOOw
+
 ## 🎯 Project Overview
 
 The goal of this project is to practice and demonstrate practical web scraping skills, including:
